@@ -1,0 +1,60 @@
+﻿  Source.cpp
+C:\Users\8chew\Desktop\Учёба\Информатика\2 семестр\Творческая работа\Коммивояжер\route_builder\Source.cpp(28,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\8chew\Desktop\Учёба\Информатика\2 семестр\Творческая работа\Коммивояжер\route_builder\Source.cpp(88,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\8chew\Desktop\Учёба\Информатика\2 семестр\Творческая работа\Коммивояжер\route_builder\Source.cpp(115,37): warning C4244: аргумент: преобразование "const double" в "float", возможна потеря данных
+C:\Users\8chew\Desktop\Учёба\Информатика\2 семестр\Творческая работа\Коммивояжер\route_builder\Source.cpp(115,27): warning C4244: аргумент: преобразование "const double" в "float", возможна потеря данных
+C:\Users\8chew\Desktop\Учёба\Информатика\2 семестр\Творческая работа\Коммивояжер\route_builder\Source.cpp(132,35): warning C4244: аргумент: преобразование "const double" в "float", возможна потеря данных
+C:\Users\8chew\Desktop\Учёба\Информатика\2 семестр\Творческая работа\Коммивояжер\route_builder\Source.cpp(132,25): warning C4244: аргумент: преобразование "const double" в "float", возможна потеря данных
+C:\Users\8chew\Desktop\Учёба\Информатика\2 семестр\Творческая работа\Коммивояжер\route_builder\Source.cpp(144,37): warning C4244: аргумент: преобразование "const double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\8chew\Desktop\Учёба\Информатика\2 семестр\Творческая работа\Коммивояжер\route_builder\Source.cpp(144,26): warning C4244: аргумент: преобразование "const double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\8chew\Desktop\Учёба\Информатика\2 семестр\Творческая работа\Коммивояжер\route_builder\Source.cpp(145,37): warning C4244: аргумент: преобразование "const double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\8chew\Desktop\Учёба\Информатика\2 семестр\Творческая работа\Коммивояжер\route_builder\Source.cpp(145,26): warning C4244: аргумент: преобразование "const double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\8chew\Desktop\Учёба\Информатика\2 семестр\Творческая работа\Коммивояжер\route_builder\Source.cpp(152,72): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\8chew\Desktop\Учёба\Информатика\2 семестр\Творческая работа\Коммивояжер\route_builder\Source.cpp(152,43): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\8chew\Desktop\Учёба\Информатика\2 семестр\Творческая работа\Коммивояжер\route_builder\Source.cpp(164,40): warning C4244: аргумент: преобразование "const int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\8chew\Desktop\Учёба\Информатика\2 семестр\Творческая работа\Коммивояжер\route_builder\Source.cpp(164,33): warning C4244: аргумент: преобразование "const int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\8chew\Desktop\Учёба\Информатика\2 семестр\Творческая работа\Коммивояжер\route_builder\Source.cpp(165,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\8chew\Desktop\Учёба\Информатика\2 семестр\Творческая работа\Коммивояжер\route_builder\Source.cpp(165,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\8chew\Desktop\Учёба\Информатика\2 семестр\Творческая работа\Коммивояжер\route_builder\Source.cpp(166,37): warning C4244: аргумент: преобразование "const double" в "float", возможна потеря данных
+C:\Users\8chew\Desktop\Учёба\Информатика\2 семестр\Творческая работа\Коммивояжер\route_builder\Source.cpp(166,27): warning C4244: аргумент: преобразование "const double" в "float", возможна потеря данных
+C:\Users\8chew\Desktop\Учёба\Информатика\2 семестр\Творческая работа\Коммивояжер\route_builder\Source.cpp(176,35): warning C4244: аргумент: преобразование "const double" в "float", возможна потеря данных
+C:\Users\8chew\Desktop\Учёба\Информатика\2 семестр\Творческая работа\Коммивояжер\route_builder\Source.cpp(176,25): warning C4244: аргумент: преобразование "const double" в "float", возможна потеря данных
+C:\Users\8chew\Desktop\Учёба\Информатика\2 семестр\Творческая работа\Коммивояжер\route_builder\Source.cpp(194,38): warning C4244: аргумент: преобразование "const double" в "float", возможна потеря данных
+C:\Users\8chew\Desktop\Учёба\Информатика\2 семестр\Творческая работа\Коммивояжер\route_builder\Source.cpp(194,28): warning C4244: аргумент: преобразование "const double" в "float", возможна потеря данных
+C:\Users\8chew\Desktop\Учёба\Информатика\2 семестр\Творческая работа\Коммивояжер\route_builder\Source.cpp(302,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\8chew\Desktop\Учёба\Информатика\2 семестр\Творческая работа\Коммивояжер\route_builder\Source.cpp(314,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\8chew\Desktop\Учёба\Информатика\2 семестр\Творческая работа\Коммивояжер\route_builder\Source.cpp(331,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\8chew\Desktop\Учёба\Информатика\2 семестр\Творческая работа\Коммивояжер\route_builder\Source.cpp(366,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\8chew\Desktop\Учёба\Информатика\2 семестр\Творческая работа\Коммивояжер\route_builder\Source.cpp(374,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\8chew\Desktop\Учёба\Информатика\2 семестр\Творческая работа\Коммивояжер\route_builder\Source.cpp(409,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\8chew\Desktop\Учёба\Информатика\2 семестр\Творческая работа\Коммивояжер\route_builder\Source.cpp(569,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\8chew\Desktop\Учёба\Информатика\2 семестр\Творческая работа\Коммивояжер\route_builder\Source.cpp(576,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\8chew\Desktop\Учёба\Информатика\2 семестр\Творческая работа\Коммивояжер\route_builder\Source.cpp(655,35): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\8chew\Desktop\Учёба\Информатика\2 семестр\Творческая работа\Коммивояжер\route_builder\Source.cpp(656,35): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\8chew\Desktop\Учёба\Информатика\2 семестр\Творческая работа\Коммивояжер\route_builder\Source.cpp(747,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\8chew\Desktop\Учёба\Информатика\2 семестр\Творческая работа\Коммивояжер\route_builder\Source.cpp(766,22): warning C4018: >=: несоответствие типов со знаком и без знака
+  route_builder.vcxproj -> C:\Users\8chew\Desktop\Учёба\Информатика\2 семестр\Творческая работа\Коммивояжер\route_builder\Debug\route_builder.exe
